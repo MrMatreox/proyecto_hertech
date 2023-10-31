@@ -1,0 +1,2 @@
+# proyecto_hertech
+## El proyecto tiene como objetivo la creación de un chatbot de WhatsApp destinado a promover la concientización y visibilización de la brecha de género en Paraguay. La brecha de género es una problemática global que afecta a mujeres de todas las edades y clases sociales. En este contexto, el chatbot se convierte en una herramienta efectiva para llegar a un amplio público y proporcionar información relevante y oportuna.
